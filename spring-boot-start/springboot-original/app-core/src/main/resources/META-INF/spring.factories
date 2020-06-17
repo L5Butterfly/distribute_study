@@ -1,0 +1,4 @@
+# springboot自动装配，通过EnableAutoConfiguration注解解析META-INF下的所有spring.factories和spring-autoconfigure-metadata.properties文件解析
+# spring.factories 装配的信息
+# spring-autoconfigure-metadata.properties 配置条件装配
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.oxygen.core.AppConfig
