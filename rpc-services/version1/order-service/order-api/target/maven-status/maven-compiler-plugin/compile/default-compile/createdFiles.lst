@@ -1,3 +1,2 @@
-com\gupaoedu\example\App.class
-com\gupaoedu\example\RpcRequest.class
-com\gupaoedu\example\IOrderService.class
+com\oxygen\example\RpcRequest.class
+com\oxygen\example\IOrderService.class
