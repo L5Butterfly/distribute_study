@@ -1,0 +1,8 @@
+com\oxygen\dubbo\AppAnnotationMain.class
+com\oxygen\dubbo\provider\annotation\AnnotationProviderService.class
+com\oxygen\dubbo\AppApiMain.class
+com\oxygen\dubbo\AppXmlMain.class
+com\oxygen\dubbo\provider\service\impl\ProviderServiceImpl.class
+com\oxygen\dubbo\configuation\DubboConfiguration.class
+com\oxygen\dubbo\provider\annotation\impl\AnnotationProviderServiceImpl.class
+com\oxygen\dubbo\provider\service\ProviderService.class
